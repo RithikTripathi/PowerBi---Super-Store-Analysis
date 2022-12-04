@@ -29,9 +29,11 @@ I'm a passionate Full Stack Data Sciences Practitioner from India.
 If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
 
 
-## Screenshots
+##Quick Glimpse:
 
-![HomeScreen](![1 Homescreen](https://user-images.githubusercontent.com/63400981/205497013-2904a037-5a06-4319-adbd-f79afb07c8d4.jpg))
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205497013-2904a037-5a06-4319-adbd-f79afb07c8d4.jpg">
+
+
 
 ![Overall Analysis](![2 overall analysis](https://user-images.githubusercontent.com/63400981/205497027-dac51c6a-1594-4676-b025-e4e092f12762.jpg)
 )
