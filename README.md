@@ -31,15 +31,16 @@ If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
 
 ## Screenshots
 
-![HomeScreen](https://drive.google.com/file/d/1omtZW-QFliQ6kxHyyWY4tOrigd7gEmUj/view?usp=sharing)
+![HomeScreen](![1 Homescreen](https://user-images.githubusercontent.com/63400981/205497013-2904a037-5a06-4319-adbd-f79afb07c8d4.jpg))
 
-![Overall Analysis](https://drive.google.com/file/d/1aLpp5GpBXESibUhWSnrIcolCSMSlUjyB/view?usp=share_link)
+![Overall Analysis](![2 overall analysis](https://user-images.githubusercontent.com/63400981/205497027-dac51c6a-1594-4676-b025-e4e092f12762.jpg)
+)
 
-![Pareto Analysis](https://drive.google.com/file/d/1k_mCVPnTeb_k2OffqAPD2ty8t9FjYhSA/view?usp=share_link)
+![Pareto Analysis](![3 pareto analysis](https://user-images.githubusercontent.com/63400981/205497032-8487dd3e-aff9-4ff6-9a44-c9d4b98c0f0b.jpg))
 
-![Area Analysis](https://drive.google.com/file/d/1cxkzOI5atcQs0gEzm7x5MqB2snF4qoI3/view?usp=share_link)
+![Area Analysis](![4 Area analysis](https://user-images.githubusercontent.com/63400981/205497040-1712e86c-627c-4da4-abce-36f8a7a5ead6.jpg))
 
-![Promotional Analysis](https://drive.google.com/file/d/1sVvepNqfjSvvjyxuTXvjXqKetrFrDEnZ/view?usp=share_link)
+![Promotional Analysis](![5 Promotiohnal anayysis](https://user-images.githubusercontent.com/63400981/205497049-2bd4acaf-dc99-48d0-959c-e29a348238bf.jpg))
 
-![Sales Analysis](https://drive.google.com/file/d/114-MeOb5TYJFPhDxveGE2iP7wDYlbrh2/view?usp=share_link)
+![Sales Analysis](![6 Sales forecast](https://user-images.githubusercontent.com/63400981/205497058-6509aa97-af24-4113-b733-6bf899490cd6.jpg))
 
